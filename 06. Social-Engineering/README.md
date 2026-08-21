@@ -6,7 +6,7 @@
 
 ## 📂 الموديولات المتاحة داخل القسم
 
-| الملف | الوصف بالشرح المصري |
+| الملف | الوصف  |
 | :--- | :--- |
 | **01. Phishing Frameworks & GoPhish** | إزاي تعمل سيرفر تصيد محترف وتدير حملات Phishing بالـ GoPhish |
 | **02. Payload Delivery & Weaponization** | طرق تجهيز وتلغيم الملفات المرفقة (Office Macros & Malicious Links) |
